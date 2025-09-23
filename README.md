@@ -1,4 +1,4 @@
-# ⚠️ Peringatan Penggunaan ⚠️
+# ⚠️ Peringatan Penggunaan 
 
 Repositori ini dibuat **hanya untuk tujuan edukasi**.
 
@@ -14,4 +14,4 @@ Kode di dalamnya berisi implementasi dari *web shell* PHP. *Web shell* adalah sk
 
 ---
 
-**Gunakan dengan bijak dan bertanggung jawab.**
+**Gunakan dengan bijak dan bertanggung jawab.😁**
