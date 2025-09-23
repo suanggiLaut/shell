@@ -1,11 +1,15 @@
-⚠️ Peringatan
-Repository ini dibuat hanya untuk tujuan edukasi.
+# Peringatan Keamanan & Etika
 
-Kode ini berisi implementasi dari web shell PHP. Web shell adalah skrip yang dapat diunggah ke server untuk memungkinkan eksekusi perintah dari jarak jauh. Penggunaan alat semacam ini secara tidak sah adalah ilegal dan dapat memiliki konsekuensi hukum yang serius.
+Harap baca poin-poin berikut sebelum menggunakan kode dari repositori ini.
 
-(Disclaimer)
-Dengan mengakses, menggunakan, atau mendistribusikan kode ini, Anda setuju bahwa Anda sepenuhnya bertanggung jawab atas segala tindakan dan konsekuensi hukum yang timbul dari penggunaan tersebut.
+| Poin Penting | Keterangan |
+| :--- | :--- |
+| 🎓 **Tujuan** | Murni untuk **edukasi** dan penelitian keamanan siber. |
+| 危险 **Risiko** | Kode ini adalah *web shell* yang dapat dieksploitasi. **Sangat berbahaya** jika disalahgunakan. |
+| ⚖️ **Legalitas** | Penggunaan tanpa izin pada sistem orang lain adalah **ilegal** dan dapat dituntut secara hukum. |
+| 📝 **Tanggung Jawab**| **Anda bertanggung jawab penuh** atas semua tindakan Anda. Penulis tidak bertanggung jawab atas penyalahgunaan apa pun. |
 
-Penulis kode ini tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang disebabkan oleh pihak lain.
+---
 
-Gunakan dengan bijak dan bertanggung jawab.
+### **Persetujuan**
+Dengan mengunduh atau menggunakan kode ini, Anda menyatakan bahwa Anda memahami risikonya dan setuju untuk menggunakannya secara etis dan legal.
